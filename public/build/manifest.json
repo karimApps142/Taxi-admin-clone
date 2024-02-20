@@ -1,0 +1,421 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.cea855f7.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/BookingDetail.vue",
+      "resources/js/Pages/Bookings.vue",
+      "resources/js/Pages/Categories.vue",
+      "resources/js/Pages/Cities.vue",
+      "resources/js/Pages/Countries.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/DriverProfile.vue",
+      "resources/js/Pages/Drivers.vue",
+      "resources/js/Pages/Feedbacks.vue",
+      "resources/js/Pages/Packages.vue",
+      "resources/js/Pages/PostDetails.vue",
+      "resources/js/Pages/Reports.vue",
+      "resources/js/Pages/RiderProfile.vue",
+      "resources/js/Pages/Riders.vue",
+      "resources/js/Pages/StoryDetails.vue",
+      "resources/js/Pages/VehicleTypes.vue",
+      "resources/js/Pages/Auth/ConfirmPassword.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue"
+    ],
+    "css": [
+      "assets/app.09eed602.css"
+    ]
+  },
+  "resources/js/Pages/BookingDetail.vue": {
+    "file": "assets/BookingDetail.64ee8bca.js",
+    "src": "resources/js/Pages/BookingDetail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Actions.5787c160.js",
+      "_useAlerts.6e7215ec.js"
+    ]
+  },
+  "_Authenticated.d169710d.js": {
+    "file": "assets/Authenticated.d169710d.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/full.c0595137.png",
+      "assets/half.bf5c487e.png"
+    ]
+  },
+  "_Table.c99bc67c.js": {
+    "file": "assets/Table.c99bc67c.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Actions.5787c160.js": {
+    "file": "assets/Actions.5787c160.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_useAlerts.6e7215ec.js": {
+    "file": "assets/useAlerts.6e7215ec.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Bookings.vue": {
+    "file": "assets/Bookings.c5bb4008.js",
+    "src": "resources/js/Pages/Bookings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js",
+      "_Table.c99bc67c.js",
+      "_Pagination.765da988.js",
+      "_moment.9709ab41.js"
+    ],
+    "css": [
+      "assets/Bookings.7155c6f7.css"
+    ]
+  },
+  "_Pagination.765da988.js": {
+    "file": "assets/Pagination.765da988.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_moment.9709ab41.js": {
+    "file": "assets/moment.9709ab41.js"
+  },
+  "resources/js/Pages/Categories.vue": {
+    "file": "assets/Categories.b32a351d.js",
+    "src": "resources/js/Pages/Categories.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_Button.06d19c4a.js",
+      "resources/js/app.js",
+      "_Actions.5787c160.js",
+      "_Table.c99bc67c.js",
+      "_useAlerts.6e7215ec.js",
+      "_Pagination.765da988.js"
+    ]
+  },
+  "_Input.50e47f58.js": {
+    "file": "assets/Input.50e47f58.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Label.a97b3341.js": {
+    "file": "assets/Label.a97b3341.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Button.06d19c4a.js": {
+    "file": "assets/Button.06d19c4a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Cities.vue": {
+    "file": "assets/Cities.cb940fd9.js",
+    "src": "resources/js/Pages/Cities.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Actions.5787c160.js",
+      "_Input.50e47f58.js",
+      "_Button.06d19c4a.js",
+      "_Select.b725302a.js",
+      "_useAlerts.6e7215ec.js",
+      "_Pagination.765da988.js"
+    ]
+  },
+  "_Select.b725302a.js": {
+    "file": "assets/Select.b725302a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Countries.vue": {
+    "file": "assets/Countries.cc0120cd.js",
+    "src": "resources/js/Pages/Countries.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Input.50e47f58.js",
+      "_Button.06d19c4a.js",
+      "_useAlerts.6e7215ec.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard.953a5fae.js",
+    "src": "resources/js/Pages/Dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js",
+      "_index.3cb848dd.js",
+      "_StatictsCard.33bb12f6.js"
+    ]
+  },
+  "_index.3cb848dd.js": {
+    "file": "assets/index.3cb848dd.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_StatictsCard.33bb12f6.js": {
+    "file": "assets/StatictsCard.33bb12f6.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/DriverProfile.vue": {
+    "file": "assets/DriverProfile.77fd5faa.js",
+    "src": "resources/js/Pages/DriverProfile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js",
+      "_StatictsCard.33bb12f6.js",
+      "_useAlerts.6e7215ec.js",
+      "_vehicle.7e87c24e.js"
+    ]
+  },
+  "_vehicle.7e87c24e.js": {
+    "file": "assets/vehicle.7e87c24e.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Drivers.vue": {
+    "file": "assets/Drivers.7917319d.js",
+    "src": "resources/js/Pages/Drivers.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Actions.5787c160.js",
+      "_useAlerts.6e7215ec.js",
+      "_Pagination.765da988.js",
+      "_Button.06d19c4a.js",
+      "_Input.50e47f58.js",
+      "_Select.b725302a.js",
+      "_Checkbox.aea4881d.js",
+      "_Label.a97b3341.js",
+      "_moment.9709ab41.js"
+    ]
+  },
+  "_Checkbox.aea4881d.js": {
+    "file": "assets/Checkbox.aea4881d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Feedbacks.vue": {
+    "file": "assets/Feedbacks.445dd14f.js",
+    "src": "resources/js/Pages/Feedbacks.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Packages.vue": {
+    "file": "assets/Packages.189c0854.js",
+    "src": "resources/js/Pages/Packages.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Input.50e47f58.js",
+      "_Button.06d19c4a.js",
+      "_Select.b725302a.js",
+      "_Actions.5787c160.js",
+      "_useAlerts.6e7215ec.js",
+      "_Pagination.765da988.js"
+    ]
+  },
+  "resources/js/Pages/PostDetails.vue": {
+    "file": "assets/PostDetails.9a760743.js",
+    "src": "resources/js/Pages/PostDetails.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Reports.vue": {
+    "file": "assets/Reports.0ff9f5bd.js",
+    "src": "resources/js/Pages/Reports.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_index.3cb848dd.js",
+      "_StatictsCard.33bb12f6.js"
+    ]
+  },
+  "resources/js/Pages/RiderProfile.vue": {
+    "file": "assets/RiderProfile.b278f3d6.js",
+    "src": "resources/js/Pages/RiderProfile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js",
+      "_StatictsCard.33bb12f6.js"
+    ]
+  },
+  "resources/js/Pages/Riders.vue": {
+    "file": "assets/Riders.0e3825ce.js",
+    "src": "resources/js/Pages/Riders.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Actions.5787c160.js",
+      "_useAlerts.6e7215ec.js",
+      "_Button.06d19c4a.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_Pagination.765da988.js"
+    ]
+  },
+  "resources/js/Pages/StoryDetails.vue": {
+    "file": "assets/StoryDetails.e6f75834.js",
+    "src": "resources/js/Pages/StoryDetails.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Authenticated.d169710d.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/VehicleTypes.vue": {
+    "file": "assets/VehicleTypes.42c06e18.js",
+    "src": "resources/js/Pages/VehicleTypes.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Authenticated.d169710d.js",
+      "_Table.c99bc67c.js",
+      "_Actions.5787c160.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_Button.06d19c4a.js",
+      "_vehicle.7e87c24e.js",
+      "_useAlerts.6e7215ec.js",
+      "_Pagination.765da988.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.vue": {
+    "file": "assets/ConfirmPassword.03564d40.js",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Guest.38aaaf1d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_ValidationErrors.b5d968ca.js"
+    ]
+  },
+  "_Guest.38aaaf1d.js": {
+    "file": "assets/Guest.38aaaf1d.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/taxi_ill.1c14bc01.jpg",
+      "assets/cabbidly_logo.2f92a867.png"
+    ]
+  },
+  "_ValidationErrors.b5d968ca.js": {
+    "file": "assets/ValidationErrors.b5d968ca.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword.004f6f34.js",
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Guest.38aaaf1d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_ValidationErrors.b5d968ca.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login.872b27e1.js",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Checkbox.aea4881d.js",
+      "_Guest.38aaaf1d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_ValidationErrors.b5d968ca.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register.0636c476.js",
+    "src": "resources/js/Pages/Auth/Register.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Guest.38aaaf1d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_ValidationErrors.b5d968ca.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword.43f84477.js",
+    "src": "resources/js/Pages/Auth/ResetPassword.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Guest.38aaaf1d.js",
+      "_Input.50e47f58.js",
+      "_Label.a97b3341.js",
+      "_ValidationErrors.b5d968ca.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail.8721f70e.js",
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Button.06d19c4a.js",
+      "_Guest.38aaaf1d.js"
+    ]
+  }
+}
